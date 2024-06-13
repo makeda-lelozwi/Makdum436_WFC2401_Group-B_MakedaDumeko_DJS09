@@ -1,0 +1,22 @@
+{
+  "name": "djs09-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makeda-lelozwi/Makdum436_WFC2401_Group-B_MakedaDumeko_DJS09.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makeda-lelozwi/Makdum436_WFC2401_Group-B_MakedaDumeko_DJS09/issues"
+  },
+  "homepage": "https://github.com/makeda-lelozwi/Makdum436_WFC2401_Group-B_MakedaDumeko_DJS09#readme",
+  "description": "",
+  "dependencies": {
+    "typescript": "^5.4.5"
+  }
+}
